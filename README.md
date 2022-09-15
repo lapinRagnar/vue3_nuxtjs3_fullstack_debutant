@@ -40,3 +40,7 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+
+## site du tuto video
+https://www.youtube.com/watch?v=A24aKCQ-rf4&list=PLE00PsIIQ_L0jnmtOLh8mE4jGly4bp5uL&index=4&t=80s
